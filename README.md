@@ -17,6 +17,7 @@ This project was prepared to learn Bootstrap usage and to create a basic e-comme
 - Görsel slider (carousel) / Visual slider (carousel)  
 - Son eklenen ürünlerin kartlarla gösterimi / Display of latest products with cards  
 - İndirimli fiyat ve orijinal fiyatın görünümü / Display of discounted and original prices  
+- **Çalışan sepet (localStorage):** ürün ekleme, adet artırma/azaltma, silme, ara toplam/vergi/toplam hesabı ve menüdeki sepet sayacı — sayfa yenilense de korunur / **Working cart (localStorage):** add products, change quantity, remove, live subtotal/tax/total and a navbar item counter that persists across reloads  
 - Footer’da e-posta abonelik formu ve sosyal medya ikonları / Email subscription form and social media icons in the footer  
 
 ---
